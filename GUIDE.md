@@ -156,4 +156,4 @@ print(low_effect.mean())
 
 ## 联系方式
 
-如有问题或建议，请联系Mahushuang。
+如有问题或建议，请联系Mahushuang, mahushuang@gmail.com。
